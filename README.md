@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luljam
-- 👀 I’m interested in development system for web
+- 👀 I'm interested in system development  for web
 - 🌱 I’m currently learning Asp Net Core MVC, javascript, angular and designer pattern
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
