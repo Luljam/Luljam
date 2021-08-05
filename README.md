@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luljam
 - 👀 I'm interested in system development for web api
 - 🌱 I’m currently learning Asp Net Core MVC, javascript, angular and designer pattern
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm employed on Avanade
 - 📫 How to reach me: lucianofdebrito@gmail.com
 
 <!---
