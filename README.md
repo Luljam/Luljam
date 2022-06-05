@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luljam
-- 👀 I'm interested in system development for web api
-- 🌱 I’m currently learning Asp Net Core MVC, javascript, angular and designer pattern
+- 👀 I'm interested in Developing Solutions for Microsoft Azure
+- 🌱 I’m currently learning Azure Cloud, Asp Net Core MVC, javascript and designer pattern
 - 💞️ I'm employed on Avanade
 - 📫 How to reach me: lucianofdebrito@gmail.com
 
